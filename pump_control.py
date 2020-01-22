@@ -5,6 +5,8 @@ import new_era
 
 serial_port = 'COM3'
 
+#CHANGE!
+
 syringes = {'1 ml BD':'4.699',
             '3 ml BD':'8.585',
             '10 ml BD':'14.60',
