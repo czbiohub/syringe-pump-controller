@@ -1,6 +1,5 @@
 import serial
-
-
+        
 def find_pumps(ser,tot_range=10):
     pumps = []
     for i in range(tot_range):
